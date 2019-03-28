@@ -4,7 +4,8 @@ cache: false
 
 env:
 - URL=https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
-
+- CONSUMERKEY=3MVG9tzQRhEbH_K3kMWvdWSV5oD4nl13HqC95M3S9hucZhwdyB5OFGV7tPy.3zWCIdPwtx823dIkhk8.iPEga
+- USERNAME=yuval.b@resourceful-badger-3wmd90.com
 before_install:
 
 - export SFDX_AUTOUPDATE_DISABLE=false
